@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Make It Classic
+## Author: Shagu
+## Notes: Stupid Useless Beta Emulator
+## Version: 0.1
+
+MakeItClassic.lua
