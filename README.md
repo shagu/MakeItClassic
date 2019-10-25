@@ -4,7 +4,7 @@ So you didn't made it into the beta? With this addon and a little imagination, y
 ![preview](preview.jpg)
 
 ## Installation
-1. Download **[Latest Version](https://gitlab.com/shagu/MakeItClassic/-/archive/master/MakeItClassic-master.zip)**
+1. Download **[Latest Version](https://github.com/shagu/MakeItClassic/archive/master.zip)**
 2. Unpack the Zip file
 3. Rename the folder "MakeItClassic-master" to "MakeItClassic"
 4. Copy "MakeItClassic" into Wow-Directory\Interface\AddOns
